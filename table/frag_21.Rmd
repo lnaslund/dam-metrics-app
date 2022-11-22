@@ -1,0 +1,23 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Risk of spread
+
+Like other connectivity-based metrics, risk of spread methods vary in biological complexity. 
+
+* Binary indicator of whether an invasive species, disease, or source population for undesirable hybrids is located upstream or downstream of a given dam
+* Invasion risk estimated as the product of the probability of movement through and suitability of a given reach for the invasive species, disease or undesirable source population
+
+
+## Data requirements/sources
+Locations of invasive organisms, infected populations, or source population for undesirable hybrids and geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolutio))
+
+## Citations
+([Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768); [Melles et al. 2015](https://doi.org/10.1007/s10980-014-0114-z))

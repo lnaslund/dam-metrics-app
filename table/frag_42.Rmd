@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Hazard potential rating
+
+## Data requirements/sources
+[FEMA National Dam Safety Program](https://www.fema.gov/emergency-managers/risk-management/dam-safety),[National Inventory of Dams](https://nid.usace.army.mil/)
+
+## Citations
+([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115), [Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209))

@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Effects on groundwater
+
+## Data requirements/sources
+Groundwater elevations from [USGS](https://waterdata.usgs.gov/nwis/gw) or local sources; well numbers and depths from withdrawal permits
+
+## Citations
+Authors

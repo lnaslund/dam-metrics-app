@@ -1,0 +1,25 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Connectivity methods
+Connectivity methods are similar in form to single organism metrics decribed in objective 5a. 
+
+Variations include metrics which: 
+
+* Account for the hydrologic complexity of unfragmented portions of the river network (# of Strahler orders represented)
+* Prioritize connectivity among sites with high habitat assessment scores
+
+Note that flow intermittency may be an important consideration in calculating connectivity, particularly in dryland rivers ([Marshall et al. 2021](https://doi.org/10.3389/fenvs.2021.671556)).
+
+## Data requirements/sources
+Geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolutio)), including the Strahler order attribute; habitat scores of reaches 
+
+## Citations
+([Martin 2019](https://maps.freshwaternetwork.org/chesapeake/plugins/barrier-prioritization-proto2/images/ChesapeakeFishPassagePrioritization_Report.pdf); [Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768))

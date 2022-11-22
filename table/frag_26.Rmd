@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Walue of water withdrawals
+
+Analyst can differentiate withdrawls into residential, agricultural, thermoelectric, industrial uses.
+
+## Data requirements/sources
+Value of water provided to public based on municipality cost data; value of water for irrigation from sources such as [USDA NASS](https://www.nass.usda.gov/Charts_and_Maps/Agricultural_Prices/index.php)
+
+## Citations
+([Kraft et al. 2019](https://doi.org/10.1111/1752-1688.12718))

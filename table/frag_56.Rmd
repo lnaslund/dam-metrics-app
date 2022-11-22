@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Expert opinion on post-implementation monitoring
+Costs associated with long-term monitoring of ecological impacts, fish passage, and/or sediment dynamics.
+
+## Data requirements/sources
+Estimated from the literature or experience based on monitoring activity, spatial coverage, and time/resources required
+  
+## Citations
+Authors

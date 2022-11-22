@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Dam height, length, and impounded volume
+
+## Data requirements/sources
+[National Inventory of Dams](https://nid.usace.army.mil/#/)
+
+## Citations
+([Magillian et al. 2016](https://online.ucpress.edu/elementa/article/doi/10.12952/journal.elementa.000108/112905/River-restoration-by-dam-removal-Enhancing), [Gonzales & Walls 2020](https://media.rff.org/documents/Dams_and_Dam_Removals_in_the_US_Js8EO7S.pdf))
+

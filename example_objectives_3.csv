@@ -1,0 +1,60 @@
+uniqueID,Objective,Metric,Method
+1,2b. Meet power demands,Power provided by dam (MWh),Use installed capacity
+2,2b. Meet power demands,Power provided by dam (MWh),Estimate power generation
+3,2b. Meet power demands,Users of dam power (#),Determine number of homes and businesses or population served by dam hydroelectricity
+4,2b. Meet power demands,Value of power provided by dam ($),Apply long-term cost data to power consumption
+5,4a. Maximize swift water recreation,Annualized value of recreation benefits over an appropriate time horizon,Apply stated or revealed preference methods
+6,4a. Maximize swift water recreation,Annualized value of recreation benefits over an appropriate time horizon,Generate benefits transfer model
+7,4a. Maximize swift water recreation,Accessible stream length (km),Use connectivity methods
+8,4b. Maximize flat water recreation,Annualized value of recreation benefits over an appropriate time horizon,Apply stated or revealed preference methods
+9,4b. Maximize flat water recreation,Annualized value of recreation benefits over an appropriate time horizon,Generate benefits transfer model
+10,4b. Maximize flat water recreation,Accessible flat water area (km2),Calculate water area
+11,4c. Minimize adverse impacts to historic sites,Average community ranking of historical significance,Ask community members to rank the historical significance of the dam relative to other significant places in the community
+12,4c. Minimize adverse impacts to historic sites,Register of historic places listing,"Determine whether a dam is listed or is eligible for listing on a national, tribal, or state register of historic places"
+13,4d. Minimize interruption to community sense of place,Local opposition to dam removal,# of properties within a discrete distance of the reservoir
+14,4d. Minimize interruption to community sense of place,Local opposition to dam removal,Percentage of riparin residents opposed to dam removal
+15,5a. Promote/maintain focal taxa,Cumulative estimated access of the target species to the river network,Connectivity methods principally derived from river network structure
+16,5a. Promote/maintain focal taxa,"Estimated biomass, population size, or extirpation risk of the organism in the river network",Population size and viability models
+17,5a. Promote/maintain focal taxa,Expert opinion about the consequences of considered barriers for the organism of interest,Scoring rubric
+18,5b. Promote/maintain biodiversity,Degree of river netowrk connectivity,Connectivity methods principally derived from river network structure
+19,5b. Promote/maintain biodiversity,"Current watershed, riparian, or instream physical and/or chemical condition ",Method represent the severity of other stressors in the system
+20,5b. Promote/maintain biodiversity,Current biodiversity,Use methods to characterize the existing biodiversity near a proposed dam removal 
+21,"5c. Prevent the spread of invasive species, diseases, and hybridization",Risk of spread,Invasion risk estimation methods and indicators
+22,5d. Reduce greenhouse gas emissions,Estimated landscape greenhouse gas balance,Use previous assessments of reservoir emissions to estimate the landscape gas balance in the proprosed alternative
+23,5e. Maintain or improve water quality,Current water quality,Modeled or measured water quality
+24,2a. Meet water demands,Amount of water needed for withdrawal,"Determine volume of storage capacity (ac-ft, m3) or volume of water withdrawals (MGY)"
+25,2a. Meet water demands,Specific number of users of water,Determine number of homes or population served for residential; number of farms or total acreage for irrigation; number of thermoelectric plants using cooling water
+26,2a. Meet water demands,Value of water provided by dam ($),Apply long-term cost data to water withdrawals
+27,2a. Meet water demands,Change in water surface elevation relative to water intakes,Estimate magnitude of change or number of intakes/users affected
+28,2a. Meet water demands,Change in local average groundwater table depth,Estimate magnitude of change or number of wells/users affected
+29,2c. Meet navigational demands,Users of in-stream dam navigation,Calculate number of vessels passing through dam per year
+30,2c. Meet navigational demands,Amount (tons) or value ($) of goods passing through dam per year,Calculate mass and price of goods carried through the dam per year
+31,2c. Meet navigational demands,Users of terrestrial dam navigation,Number of vehicles/axles crossing dammed road per year
+32,2c. Meet navigational demands,"Proximity to nearest alternative stream-crossing infrastructure (mi, km)",Calculate distance to other roads and bridges where traffic would be diverted
+33,3a. Reduce personal safety risk,Hazard potential of submerged hydraulic jumps,Estimate relative hazard potential using dam characteristics and recreational use information
+34,3a. Reduce personal safety risk,Hazard potential of submerged hydraulic jumps,Estimate the proportion of annual flows classified as dangerous submerged hydraulic jumps
+35,3a. Reduce personal safety risk,Drowning fatalities at a dam,Number of fatalities
+36,5e. Maintain or improve water quality,Net water quality improvement,"Estimate net denitrification, phosphorus retention between dammed and undammed (or less dammed) scenario using water quality model, possibly in combination with HEC-RAS"
+37,5f. Reduce stream geomorphic degradation,"Net change in channel width/depth ratio, slope",Compare current and simulated width to depth ratios in the local and downstream reaches to quantify channel change from dam removal
+38,5f. Reduce stream geomorphic degradation,Erosion potential,"Calculate based on dam height, volume of sediment stored, suspended sediment in upstream supply (how “hungry” is the flow), sediment grain size"
+39,5f. Reduce stream geomorphic degradation,Sediment supply and transport capacity,Measured sediment supply
+40,1a. Minimize implementation cost,"Cost of infrastructure to replace the services provided by the dam (power, flood risk, water supply, etc.)",Cost estimating tool for specific type of infrastructure
+41,2d. Minimize flood risk,Risk potential to downstream communities,Flood risk assessment study
+42,3b. Mitigate risk of failure,Hazard potential,Rating
+43,3b. Mitigate risk of failure,Dam condition,Age and type
+44,1a. Minimize implementation cost,Permitting and assessment cost (historic mitigation and environment assessment),Permitting cost (determine whether permitting processes are streamlined)
+45,1a. Minimize implementation cost,Permitting and assessment cost (historic mitigation and environment assessment),Availability of state or federal funding for dam removal 
+46,1a. Minimize implementation cost,Permitting and assessment cost (historic mitigation and environment assessment),Need for an environmental assessment (EA) or environment impact statement (EIS)
+47,1a. Minimize implementation cost,Permitting and assessment cost (historic mitigation and environment assessment),Determine whether litigations are ongoing or anticipated
+48,1a. Minimize implementation cost,Cost of removing dam and appurtenant structures,"Dam height, length, and impounded volume"
+49,1a. Minimize implementation cost,Cost of removing dam and appurtenant structures,"Dam material (earth fill, rock fill, concrete dams)"
+50,1a. Minimize implementation cost,Cost of removing dam and appurtenant structures,"Need for advanced methods or new construction (such as coffer dams, dewatered channels, bridges, or roads)"
+51,1a. Minimize implementation cost,Sediment remediation cost,"Upstream # of Toxics Release Inventory site (TRIs) superfund sites, and NPDES discharges (to infer sediment contamination)"
+52,1a. Minimize implementation cost,Sediment remediation cost,Impounded sediment volume
+53,1a. Minimize implementation cost,Sediment remediation cost,Sediment grain size distribution 
+54,1a. Minimize implementation cost,Project costs associated with other mitigation actions,Need for historic mitigation or site preservation
+55,1a. Minimize implementation cost,Project costs associated with other mitigation actions,Estimated cost of environmental mitigation measures
+56,1b. Minimize maintenance cost,Post-implementation monitoring cost,Expert opinion
+57,1b. Minimize maintenance cost,Operations and maintanence cost of supplanting infrastructure,Cost estimating tool for specific type of infrastructure
+58,1b. Minimize maintenance cost,Cost of invasive species control,Estimate the area vulnerable to invasive species spread and multiply by the per-area control cost from the literature or experience
+59,1b. Minimize maintenance cost,Dam maintenance cost,Expert evaluation

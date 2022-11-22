@@ -1,0 +1,12 @@
+---
+output: html_fragment
+---
+
+**4a. Maximize swift water recreational opportunities**: dam removal can increase the recreational use of the river and surrounding landscape, particularly for swift-water based recreation like rafting and tubing ([Loomis et al. 2002](https://doi.org/10.1029/2000WR000136), [Leisher et al. 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13500))   
+
+**4b. Maximize flat water recreational opportunities**: recreation is the most common primary purpose of dams in the National Inventory of Dams, accounting for 32% of primary purposes among all structures; however, dams that no longer serve their intended purpose are frequently assigned recreation as their primary purpose in the NID ([Gonzales & Walls 2020](https://www.rff.org/publications/reports/dams-and-dam-removals-united-states/)).
+
+**4c. Minimize adverse impacts to sites judged by the community, state, or Nation to be	historically significant places**: historically significant sites are frequently subject to conservation measures under the National Historic Preservation Act and state and tribal equivalent laws ([McClain et al 2008](https://www.americanrivers.org/wp-content/uploads/2016/06/Dam_Removal_and_Historic_Preservationa3eb.pdf)). Even sites without formal recognition may be important to a community’s historic memory ([Fox et al. 2016](https://doi.org/10.1016/j.geoforum.2016.02.013)). 
+  
+
+**4d. Minimize interruption to community sense of place**: opposition to dam removals is often fomented by the entangling of “regional identity, history, and personal experience” that make dams become symbols of community identity ([Fox et al. 2016](https://doi.org/10.1016/j.geoforum.2016.02.013)).

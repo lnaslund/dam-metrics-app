@@ -1,0 +1,16 @@
+---
+output: html_fragment
+---
+
+```{css, echo=FALSE}
+p {
+  font-size: 18px;
+}
+h1{
+  font-size: 24px
+}
+```
+
+# Feedback
+
+We hope that you have found this resource useful. We appreciate suggestions for how to improve this tool or recommendations of metrics to add. Please use the feedback box below to share your thoughts.

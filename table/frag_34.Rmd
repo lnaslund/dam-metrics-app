@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Submerged hydraulic jumps
+
+Proportion of annual flows classified as dangerous submerged hydraulic jumps (tailwater depth > conjugate depth; discharge lower than the flip point; velocity greater than average swimming speed)
+
+## Data requirements/sources
+Streamflow data from [USGS](https://waterdata.usgs.gov/nwis/rt) to calculate flow statistics; spreadsheet from [Wahl & Svoboda (2022)](https://ascelibrary.org/doi/abs/10.1061/9780784484258.026) to estimate dangerous flows; HEC-RAS models for detailed assessments (may be publicly available for many larger rivers)
+
+## Citations
+Authors, based on ([Wahl & Svoboda 2022](https://doi.org/10.1061/9780784484258.026))

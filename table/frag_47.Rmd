@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Determine whether litigations are ongoing or anticipated
+
+## Data requirements/sources
+Based on expert judgement of actual or potential stakeholder opposition to dam removal, public records
+
+## Citations
+[Fox et al. 2016](https://www.sciencedirect.com/science/article/pii/S0016718516300720)

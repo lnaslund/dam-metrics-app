@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Permitting cost 
+
+## Data requirements/sources
+Can be inferred from state-based policies and permitting requirements.
+
+## Citations
+(Walls and Shabman 2020)

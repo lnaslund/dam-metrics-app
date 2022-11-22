@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Accessible flat water area (km^2^)
+
+## Data requirements/sources
+Area of flat water can be discerned from a map of waterbodies ([NHD](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution), or other database). 
+
+Area metric can be modified to account for water quality and the location of other recreational amenities that affect flat water accessibility (water quality data: [NWIS](https://waterdata.usgs.gov/nwis), state, or local databases), location of recreational amenities (parks and recreation departments, county GIS services).
+
+## Citations
+Authors

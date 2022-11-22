@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Estimate the area vulnerable to invasive species spread and multiply by the per-area control cost from the literature or experience
+
+## Data requirements/sources
+Estimated from the literature or experience based on the species, control measures, and spatial and temporal coverage
+  
+## Citations
+[Zheng & Hobbs 2013](https://hobbsgroup.johnshopkins.edu/docs/papers/ASCE_Dam_Safety_pzheng_bhobbs_Rev_09052011_figs.pdf)

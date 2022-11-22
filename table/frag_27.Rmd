@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Effects on pipe intakes
+
+## Data requirements/sources
+Pipe intake data (including elevations) from the municipality; hydraulic model inputs to estimate low-flow stream elevation
+
+## Citations
+Authors

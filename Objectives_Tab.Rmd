@@ -1,0 +1,29 @@
+---
+output: html_fragment
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+p {
+  font-size: 18px;
+}
+h1{
+  font-size: 24px
+}
+```
+
+
+# Objective categories
+
+1-Account for monetary costs and feasibility
+
+2-Meet demands for infrastructure services
+
+3-Reduce safety hazard
+
+4-Meet community desires for recreation, historic preservation, and sense of place
+
+5-Maintain and restore the physical, chemical, and biological integrity of the nation’s waters

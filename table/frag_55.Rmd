@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Estimated cost of environmental mitigation measures  
+Includes the construction of alternative water treatment facilities, the establishment of a fish hatchery or similar, revegetation or topography reshaping 
+
+## Data requirements/sources
+Infrastructure or action-based cost estimates 
+
+## Citations
+([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282))

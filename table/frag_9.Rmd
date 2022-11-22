@@ -1,0 +1,16 @@
+---
+output: html_fragment
+---
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Benefits transfer model
+
+## Data requirements/sources
+Benefits transfer models involve using data from previous studies to estimate the potential benefits of the alternative under consideration. These models require relevant existing valuation literature and  characteristics of the alternatives under consideration.
+
+## Citations
+([Black et al. 1998](https://www.fws.gov/policy/hydroindex.htm))

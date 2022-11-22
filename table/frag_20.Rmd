@@ -1,0 +1,23 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Current biodiversity
+
+* Richness
+* Number of endemic taxa
+* Richness of rare taxa
+* Bioindicator score
+
+
+## Data requirements/sources
+Community taxonomic data at the spatial scale of interest (e.g., [NatureServe Native U.S. Fishes database](https://www.natureserve.org/products/digital-distribution-native-us-fishes-watershed))
+
+## Citations
+([Hoenke et al. 2014](http://dx.doi.org/10.1016/j.ecoleng.2013.12.009); [Martin 2019](https://maps.freshwaternetwork.org/chesapeake/plugins/barrier-prioritization-proto2/images/ChesapeakeFishPassagePrioritization_Report.pdf); [Guetz et al. 2021](https://doi.org/10.1111/rec.13583); [Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768))
