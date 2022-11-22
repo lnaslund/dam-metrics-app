@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+.httr-oath
+droptoken.rds
