@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Need for historic mitigation or site preservation  
+
+## Data requirements/sources
+Can be inferred from proximity to National Register of Historical Places and/or townships. 
+Dam age and size may be found in the [National Inventory of Dams](https://nid.usace.army.mil/#/). 
+In case mitigation is required, associated costs can be estimated based on mitigation action.  
+  
+## Citations
+([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282))

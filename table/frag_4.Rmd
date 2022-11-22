@@ -1,0 +1,16 @@
+---
+output: html_fragment
+---
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Value of power
+
+## Data requirements/sources
+National Inventory of Dams, utility cost data
+
+## Citations
+([McManamay et al. 2019](https://doi.org/10.1002/ecs2.2596))

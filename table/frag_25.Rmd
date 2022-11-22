@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Number of homes, farms, thermoelectric plants, or population
+
+## Data requirements/sources
+Information on the number of users of impounded water based on utility company records or withdrawal permits
+
+## Citations
+([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115))

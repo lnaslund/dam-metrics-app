@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Sediment capacity and supply
+
+## Data requirements/sources
+Dam operator records of upstream sediment supply; streamflow data from [USGS](https://waterdata.usgs.gov/nwis/rt); sediment size and distributions; suspended sediment concentrations
+
+## Citations
+Authors

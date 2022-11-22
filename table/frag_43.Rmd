@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Dam Condition
+
+## Data requirements/sources
+[National Inventory of Dams](https://nid.usace.army.mil/)
+
+## Citations
+([Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209))

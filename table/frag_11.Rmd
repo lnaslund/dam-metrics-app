@@ -1,0 +1,16 @@
+---
+output: html_fragment
+---
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Ranked historical significance
+
+## Data requirements/sources
+Primary survey data from community members to indicate the community's perception of the historical importance of a structure. 
+
+## Citations
+Authors

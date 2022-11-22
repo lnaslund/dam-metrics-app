@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Number of riparian residents opposed to removal
+
+## Data requirements/sources
+Survey of riparian residents
+
+## Citations
+([Wyrick et al. 2009](https://doi.org/10.1016/j.jenvman.2008.07.027))

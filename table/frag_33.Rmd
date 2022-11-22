@@ -1,0 +1,23 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Dam characteristics and recreation
+
+Relevant characteristics:
+
+* Dam height
+* % width with continuous flow 
+* Number of recreational users
+
+## Data requirements/sources
+Databases like the [National Inventory of Dams](https://nid.usace.army.mil/#/); recreational survey data, if available
+
+## Citations
+([Wahl & Svoboda 2022](https://doi.org/10.1061/9780784484258.026))

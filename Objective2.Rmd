@@ -1,0 +1,14 @@
+---
+output: html_fragment
+---
+
+**2a. Meet water demands**: In 2015, withdrawals from fresh surface water, including streams, lakes, and reservoirs, accounted for over 60% of total water withdrawals in the US in 2015 (198 billion gallons/day), with the most substantial withdrawals for thermoelectric power, irrigation, and public supply ([Dieter et al. 2018](https://pubs.usgs.gov/circ/1441/circ1441.pdf)).
+
+
+**2b. Meet power demands**: Hydropower accounted for 6.3% of power generation in the US in 2021 and is used extensively to provide short-term ramping flexibility ([Uría-Martínez et al. 2021](https://www.energy.gov/sites/prod/files/2021/01/f82/us-hydropower-market-report-full-2021.pdf), [U.S. EIA 2022](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3)).  
+
+
+**2c. Meet navigational demands**: The US government maintains more than 200 locks and dams within its 12,000 miles of inland and intracoastal waterways, making these structures important conduits for commercial navigation ([Carter and Fritelli 2020](https://crsreports.congress.gov/product/pdf/IF/IF11593)). Some dams are also critical terrestrial transportation structures, with major roads that traverse the dam, such as US 93 which previously crossed the Hoover Dam.
+
+**2d. Minimize flood risk**: Flood control is the primary use for approximately 20% of the dams listed in the National Inventory of Dams ([USACE 2016](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerPamphlets/EP_360-1-23.pdf)). This amounts to roughly 16,000 dams. Removal may increase flood risk for downstream floodplain communities that developed with the security afforded by the dam ([Habel et al. 2020](https://www.nature.com/articles/s41598-020-76158-3); [Ho et al. 2017](https://doi.org/10.1002/2016WR019905)). 
+

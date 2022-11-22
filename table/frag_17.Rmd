@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Expert opinion scoring
+
+Scoring rubric can include elements like the status of the source population, expected changes in the quantity and quality of habitat, and additional stressors to recovery.
+
+## Data requirements/sources
+An expert and the information required for their judgement
+
+## Citations
+([Quiñones et al. 2015](https://doi.org/10.1007/s11160-014-9359-5))

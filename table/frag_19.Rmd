@@ -1,0 +1,32 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Current condition
+
+In general, these methods present the presence and severity of other aquatic ecosystem stressors, such that removal can be prioritized in system in which the barrier is the dominant stressor constraining the aquatic community.
+
+Example methods:
+
+* Watershed % impervious surface cover
+* Density of toxic release inventory sites, NPDES sites, and superfund sites in the catchment
+* Sinuosity and coefficient of variation of river width 
+
+
+## Data requirements/sources
+Various depending on selected method
+
+Data requirements for example methods:
+
+* [NLCD data](https://www.mrlc.gov/data)
+* [StreamCat data](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset)
+* Geomorphic survey data
+
+## Citations
+([Mader & Maier 2008](https://doi.org/10.1007/s10750-008-9406-0), [Martin 2019](https://maps.freshwaternetwork.org/chesapeake/plugins/barrier-prioritization-proto2/images/ChesapeakeFishPassagePrioritization_Report.pdf), [Martin et al. 2020](https://www.atlanticfishhabitat.org/wp-content/uploads/2020/08/ACFHP-Mapping-and-Prioritization-Final-Report.pdf), [Guetz et al. 2021](https://doi.org/10.1111/rec.13583))

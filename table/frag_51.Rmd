@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Upstream number of TRIs, superfund sites, and NPDES discharges 
+The presence of Toxics Release Inventory sites (TRI), superfund sites, and NPDES discharges indicates the likelihood of reservoir sediment contamination, and hence the need for remediation. 
+
+## Data requirements/sources
+Databases such as the [EPA StreamCat Dataset](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset), [EPA National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl),  
+
+## Citations
+([Tullos et al. 2016](https://www.fs.usda.gov/research/treesearch/54334))

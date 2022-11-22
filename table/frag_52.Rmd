@@ -1,0 +1,23 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Impounded sediment volume 
+
+## Data requirements/sources
+Databases such as the Reservoir Sedimentation Database or [RESSED](https://water.usgs.gov/osw/ressed/) and Reservoir Sedimentation Information or [RSI](https://www.usbr.gov/tsc/techreferences/reservoir/ReservoirSedimentationTechGuide10_1982.pdf). 
+
+Can also be estimated using various methods based on variables such as sedimentation rates, sediment producing areas, dam age, reservoir volume, and trapping efficiency.
+
+Alternatively, the probability of sediment impact ([Randle and Bountry 2017](https://acwi.gov/sos/pubs/dam_removal_analysis_guidelines_for_sos_final_vote_2017_12_22_508.pdf)), calculated as the ratio of reservoir sediment volume to mean annual sediment load, can also be used.
+  
+[Anchor QEA 2020](https://www.sedhyd.org/reservoir-sedimentation/Reservoir%20Sediment%20Removal%20Cost%20Model%20-%20Anchor%20QEA%20February%202020.pdf) produced a cost model for sediment removal which can be used with impounded sediment volume to produce an order of magnitude cost estimate.
+
+## Citations
+([Minear and Kondolf 2009](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007WR006703); [Randle and Bountry 2017](https://acwi.gov/sos/pubs/dam_removal_analysis_guidelines_for_sos_final_vote_2017_12_22_508.pdf))

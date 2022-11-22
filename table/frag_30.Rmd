@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Amount or value of goods
+
+## Data requirements/sources
+Dam operator may have records of cargo mass on vessels passing through the dam. Analyst could estimate the value with goods prices from various sources, including [USDA ERS](https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings/).
+
+## Citations
+([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015))

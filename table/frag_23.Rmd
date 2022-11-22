@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Current water quality
+
+Modeled (e.g., [SPARROW](https://www.usgs.gov/mission-areas/water-resources/science/sparrow-modeling-estimating-nutrient-sediment-and-dissolved)) or measured water quality can be used to prioritize sites with water quality issues that may be ameliorated by dam removal (e.g., high temperature, chlorophyll, or low dissolved oxygen).
+
+## Data requirements/sources
+Identification of impaired waters (e.g., 303d list), water quality model inputs or measured water quality parameters
+
+## Citations
+([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115); [Hoenke et al. 2014](https://doi.org/10.1016/j.ecoleng.2013.12.009))

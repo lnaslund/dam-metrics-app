@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Flood risk assessment study
+
+Applicable to all dam removals and cessation of operations that control downstream discharges.
+
+## Data requirements/sources
+[FEMA flood inundation maps](https://www.fema.gov/flood-maps), dollar value of at risk property
+
+## Citations
+([Yang et al. 2011](https://doi.org/10.3390/ijerph8051368))

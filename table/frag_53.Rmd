@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Sediment grain size distribution  
+Higher proportions of fine grained sediment are associated with higher cohesion and sediment retention. This affects how quickly eroded sediment can move down the river channel and may indicate the appropriate sediment management strategy. 
+
+## Data requirements/sources
+Site based assessments
+  
+## Citations
+([Tullos et al. 2016](https://www.fs.usda.gov/research/treesearch/54334); [Randle and Bountry 2017](https://acwi.gov/sos/pubs/dam_removal_analysis_guidelines_for_sos_final_vote_2017_12_22_508.pdf))

@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Channel morphology changes
+
+## Data requirements/sources
+Digital elevation model from sources like [The National Map (USGS)](https://apps.nationalmap.gov/downloader/); typical inputs for sediment transport modeling including channel dimensions, sediment size, streamflow data, etc.
+
+## Citations
+Authors

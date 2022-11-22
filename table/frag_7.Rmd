@@ -1,0 +1,27 @@
+---
+output: html_fragment
+---
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+
+# Connectivity metrics
+
+## Data requirements/sources
+Connectivity metrics like those described for objectives 5a and 5b can be adapted to represent swiftwater connectivity for recreators.
+
+These metrics can be adapted by accounting for:
+
+* water quality
+* distance from other recreational amenities
+* flow
+
+### Relevant data
+
+Stream map ([NHD](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution)), dam location data ([NID](https://nid.usace.army.mil/#/) or other database), water quality data ([NWIS](https://waterdata.usgs.gov/nwis), state, or local databases), location of recreational amenities (parks and recreation departments, county GIS services)
+
+## Citations
+Authors

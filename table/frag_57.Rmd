@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Replacement infrastructure operations & maintenance cost estimate
+
+Dam removals are sometimes accompanied by the construction of supplanting infrastructure to replace the services provided by the dam. Examples include flood protection (levees, bank protection, flood protection settlements) or water supply infrastructure. The cost of operating and maintaining this supplant infrastructure should be accounted for in cost estimates of alternatives.
+
+## Data requirements/sources
+Infrastructure specific cost estimates, relevant discounting rates
+
+## Citations
+([ECONorthwest 2019](https://static1.squarespace.com/static/597fb96acd39c34098e8d423/t/5d41bbf522405f0001c67068/1564589261882/LSRD_Economic_Tradeoffs_Report.pdf))

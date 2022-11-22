@@ -1,0 +1,19 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Funds available for dam removal
+
+## Data requirements/sources
+From reports such as - 
+[Federal Funding for Dam Removal in the US](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.);
+[Funding Options for Dam Removals in the US](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/)
+
+## Citations
+[Walls and Shabman 2020a](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.), [Walls and Shabman 2020b](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/)
