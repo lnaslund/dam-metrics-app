@@ -8,7 +8,7 @@ output: html_fragment
 }
 </style>
 
-# Walue of water withdrawals
+# Value of water withdrawals
 
 Analyst can differentiate withdrawls into residential, agricultural, thermoelectric, industrial uses.
 

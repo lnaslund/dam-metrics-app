@@ -12,15 +12,15 @@ uniqueID,Objective,Metric,Method
 11,4c. Minimize adverse impacts to historic sites,Average community ranking of historical significance,Ask community members to rank the historical significance of the dam relative to other significant places in the community
 12,4c. Minimize adverse impacts to historic sites,Register of historic places listing,"Determine whether a dam is listed or is eligible for listing on a national, tribal, or state register of historic places"
 13,4d. Minimize interruption to community sense of place,Local opposition to dam removal,# of properties within a discrete distance of the reservoir
-14,4d. Minimize interruption to community sense of place,Local opposition to dam removal,Percentage of riparin residents opposed to dam removal
+14,4d. Minimize interruption to community sense of place,Local opposition to dam removal,Percentage of riparian residents opposed to dam removal
 15,5a. Promote/maintain focal taxa,Cumulative estimated access of the target species to the river network,Connectivity methods principally derived from river network structure
 16,5a. Promote/maintain focal taxa,"Estimated biomass, population size, or extirpation risk of the organism in the river network",Population size and viability models
 17,5a. Promote/maintain focal taxa,Expert opinion about the consequences of considered barriers for the organism of interest,Scoring rubric
-18,5b. Promote/maintain biodiversity,Degree of river netowrk connectivity,Connectivity methods principally derived from river network structure
+18,5b. Promote/maintain biodiversity,Degree of river network connectivity,Connectivity methods principally derived from river network structure
 19,5b. Promote/maintain biodiversity,"Current watershed, riparian, or instream physical and/or chemical condition ",Method represent the severity of other stressors in the system
 20,5b. Promote/maintain biodiversity,Current biodiversity,Use methods to characterize the existing biodiversity near a proposed dam removal 
 21,"5c. Prevent the spread of invasive species, diseases, and hybridization",Risk of spread,Invasion risk estimation methods and indicators
-22,5d. Reduce greenhouse gas emissions,Estimated landscape greenhouse gas balance,Use previous assessments of reservoir emissions to estimate the landscape gas balance in the proprosed alternative
+22,5d. Reduce greenhouse gas emissions,Estimated landscape greenhouse gas balance,Use previous assessments of reservoir emissions to estimate the landscape gas balance in the proposed alternative
 23,5e. Maintain or improve water quality,Current water quality,Modeled or measured water quality
 24,2a. Meet water demands,Amount of water needed for withdrawal,"Determine volume of storage capacity (ac-ft, m3) or volume of water withdrawals (MGY)"
 25,2a. Meet water demands,Specific number of users of water,Determine number of homes or population served for residential; number of farms or total acreage for irrigation; number of thermoelectric plants using cooling water
@@ -36,7 +36,7 @@ uniqueID,Objective,Metric,Method
 35,3a. Reduce personal safety risk,Drowning fatalities at a dam,Number of fatalities
 36,5e. Maintain or improve water quality,Net water quality improvement,"Estimate net denitrification, phosphorus retention between dammed and undammed (or less dammed) scenario using water quality model, possibly in combination with HEC-RAS"
 37,5f. Reduce stream geomorphic degradation,"Net change in channel width/depth ratio, slope",Compare current and simulated width to depth ratios in the local and downstream reaches to quantify channel change from dam removal
-38,5f. Reduce stream geomorphic degradation,Erosion potential,"Calculate based on dam height, volume of sediment stored, suspended sediment in upstream supply (how “hungry” is the flow), sediment grain size"
+38,5f. Reduce stream geomorphic degradation,Erosion potential,"Calculate based on dam height, volume of sediment stored, suspended sediment in upstream supply (how ""hungry"" is the flow), sediment grain size"
 39,5f. Reduce stream geomorphic degradation,Sediment supply and transport capacity,Measured sediment supply
 40,1a. Minimize implementation cost,"Cost of infrastructure to replace the services provided by the dam (power, flood risk, water supply, etc.)",Cost estimating tool for specific type of infrastructure
 41,2d. Minimize flood risk,Risk potential to downstream communities,Flood risk assessment study
@@ -55,6 +55,7 @@ uniqueID,Objective,Metric,Method
 54,1a. Minimize implementation cost,Project costs associated with other mitigation actions,Need for historic mitigation or site preservation
 55,1a. Minimize implementation cost,Project costs associated with other mitigation actions,Estimated cost of environmental mitigation measures
 56,1b. Minimize maintenance cost,Post-implementation monitoring cost,Expert opinion
-57,1b. Minimize maintenance cost,Operations and maintanence cost of supplanting infrastructure,Cost estimating tool for specific type of infrastructure
+57,1b. Minimize maintenance cost,Operations and maintenance cost of supplanting infrastructure,Cost estimating tool for specific type of infrastructure
 58,1b. Minimize maintenance cost,Cost of invasive species control,Estimate the area vulnerable to invasive species spread and multiply by the per-area control cost from the literature or experience
 59,1b. Minimize maintenance cost,Dam maintenance cost,Expert evaluation
+60,1a. Minimize implementation cost,Total cost,Regression model of past removals

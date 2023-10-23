@@ -1,0 +1,24 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Total removal cost
+
+## Data requirements/sources
+The [Dam Removal Cost Estimator Tool](https://wrises.shinyapps.io/DamRemovalCostPredictiveModel/) provides estimates of the total cost of dam removals in the US based on a regression model fit with characteristics and costs of past removals. This model takes as its input:
+
+* Dam height
+* Dam material
+* Project complexity
+* Annual average discharge
+* Drainage area
+* Region
+
+## Citations
+([Duda et al. 2023](https://doi.org/10.3389/fevo.2023.1215471))

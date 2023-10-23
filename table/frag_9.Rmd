@@ -13,4 +13,4 @@ output: html_fragment
 Benefits transfer models involve using data from previous studies to estimate the potential benefits of the alternative under consideration. These models require relevant existing valuation literature and  characteristics of the alternatives under consideration.
 
 ## Citations
-([Black et al. 1998](https://www.fws.gov/policy/hydroindex.htm))
+([Platt 2003]([Platt 2003](https://www.usbr.gov/tsc/techreferences/economics/DamRemovalPaper2.pdf);))

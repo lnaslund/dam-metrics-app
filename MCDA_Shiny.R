@@ -8,6 +8,7 @@ library(DT)
 library(knitr)
 
 source("chooser.R")
+tags$head(includeScript("google-analytics.html"))
 
 outputDir <- "responses"
 
@@ -50,6 +51,7 @@ shinyInput <- function(FUN, n, id, ...) {
 }
 
 ui <- navbarPage(
+  tags$head(includeHTML(("google-analytics.html"))),
   id = "nbPage",
   theme = bs_theme(
     version = 5, 
@@ -130,7 +132,8 @@ ui <- navbarPage(
   tabPanel("Tools",
            value = "tools",
            fluidPage(
-             DTOutput("tool")
+             DTOutput("tool"),
+             downloadButton('downloadTools', "Download")
            )),
 
   tabPanel(
@@ -176,11 +179,14 @@ server <- function(input, output, session) {
   selection = 'none'
   )
   
+  
   toolsInput <- reactive(
-    { tibble( wos %>% filter(Objective %in% input$mychooser$right & value == 1) %>% select(Objective, html) %>% rename("Link" = "html") %>% distinct() %>% arrange(Objective))
+    { tibble( wos %>% filter(Objective %in% input$mychooser$right & value == 1) %>% select(Objective, html, value) %>% rename("Tools" = "html") %>% distinct() %>% 
+                pivot_wider(names_from = Objective, values_from = value))
       
     }
   )
+  
   
   output$tool <- DT::renderDT({
     toolsInput()
@@ -193,6 +199,15 @@ server <- function(input, output, session) {
   observeEvent(input$jumpToMetrics, {
     updateNavbarPage(session, "nbPage", selected = "metrics")
   })
+  
+  output$downloadTools <- downloadHandler(
+    filename = function() {
+      paste('tools-', Sys.Date(), '.csv', sep='')
+    },
+    content = function(con) {
+      write.csv(toolsInput(), con, row.names = F)
+    }
+  )
   
   # could make this fancier where it knits the html fragments too and outputs a collated file
   output$downloadData <- downloadHandler(

@@ -1,0 +1,17 @@
+---
+output: html_fragment
+---
+
+<style type="text/css">
+  h1{
+  font-size: 2.5em;
+}
+</style>
+
+# Change from upstream emissions
+
+## Data requirements/sources
+Dams can elevate surface emissions of CO~2~ and CH~4~. Removing dams with greater reservoir surface emissions compared to upstream may result in a larger reduction in emissions; however, the removal process itself may result in additional emissions (e.g., from the oxidation of previously inundated organic material) and these pathways should accounted for when estimating the impact of removal on greenhouse gas emissions.
+
+## Citations
+([Maeck et al. 2013](https://doi.org/10.1021/es4003907))
