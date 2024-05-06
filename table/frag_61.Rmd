@@ -14,4 +14,4 @@ output: html_fragment
 Dams can elevate surface emissions of CO~2~ and CH~4~. Removing dams with greater reservoir surface emissions compared to upstream may result in a larger reduction in emissions; however, the removal process itself may result in additional emissions (e.g., from the oxidation of previously inundated organic material) and these pathways should accounted for when estimating the impact of removal on greenhouse gas emissions.
 
 ## Citations
-([Maeck et al. 2013](https://doi.org/10.1021/es4003907))
+(<a href="https://doi.org/10.1021/es4003907" target="_blank">Maeck et al. 2013</a>)
