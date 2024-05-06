@@ -12,7 +12,7 @@ output: html_fragment
 The presence of Toxics Release Inventory sites (TRI), superfund sites, and NPDES discharges indicates the likelihood of reservoir sediment contamination, and hence the need for remediation. 
 
 ## Data requirements/sources
-Databases such as the [EPA StreamCat Dataset](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset), [EPA National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl),  
+Databases such as the [EPA StreamCat Dataset](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset), [EPA National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl), [EnviroAtlas](https://enviroatlas.epa.gov/enviroatlas/interactivemap/?eaLayer=eaLyrNum_783) 
 
 ## Citations
 ([Tullos et al. 2016](https://www.fs.usda.gov/research/treesearch/54334))

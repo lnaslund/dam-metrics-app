@@ -9,10 +9,10 @@ output: html_fragment
 </style>
 
 # Estimated cost of environmental mitigation measures  
-Includes the construction of alternative water treatment facilities, the establishment of a fish hatchery or similar, revegetation or topography reshaping 
+For removal decisions, these measures include the construction of alternative water treatment facilities, the establishment of a fish hatchery or similar, revegetation or topography reshaping. For retrofit decisions, these measures may include the construction of fish passage structures.
 
 ## Data requirements/sources
 Infrastructure or action-based cost estimates 
 
 ## Citations
-([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282))
+([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282); [Kondolf & Yi 2022](https://doi.org/10.3390/w14091464))

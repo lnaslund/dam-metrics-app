@@ -2,6 +2,6 @@
 output: html_fragment
 ---
 
-**1a. Minimize implementation cost**: Initial capital investment is a critical component of a cost-benefit analysis which is frequently used by dam owners to choose among different management alternatives ([Whitelaw & Macmullan 2002](https://academic.oup.com/bioscience/article/52/8/724/255069)).     
+**1a. Minimize implementation cost**: Initial capital investment is a critical component of a cost-benefit analysis which is frequently used by dam owners to choose among different management alternatives ([Whitelaw & Macmullan 2002](https://academic.oup.com/bioscience/article/52/8/724/255069)). Implementation cost includes the cost of removing or repairing the dam and appurtenant structures, permitting costs, and mitigation costs ([Walls and Shabman 2020](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/)). Decisions to retrofit, repair, and remove dams all incur implementation costs.    
 
 **1b. Minimize maintenance cost**: Ongoing capital investment required to support the management decision is also a critical component of cost-benefit analysis.

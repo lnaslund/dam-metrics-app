@@ -48,6 +48,7 @@ Several organizations have developed tools to support structured decision-making
 ### DAM REMOVAL OBJECTIVES AND THEIR REPRESENTATION IN DECISION-SUPPORT TOOLS
 To identify common objectives in dam removal decisions and evaluate their inclusion in existing decision-support tools, we performed a two-stage search of the literature. We first conducted a non-systematic, preliminary literature review to develop an initial list of objectives of dam removal decisions. These objectives included motivations for dam removal (e.g., maximize swift water recreational opportunities) as well as services to be maintained regardless of the removal decision (e.g., meet navigational demands). We then refined this list as we conducted a second, systematic review of existing decision-support tools published before April 2022 to determine how frequently our identified objectives were included. Of the 108 evaluated tools and papers, 41 met our inclusion criteria (additional details in Supporting Information). In total, we identified 18 common objectives of dam removal, which we organized into five categories (Table 1). 
 
+
 **Table 1**. Common objectives of dam removal identified by a literature review.
 
 | Category | Objective |
