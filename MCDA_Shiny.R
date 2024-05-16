@@ -64,7 +64,7 @@ ui <- navbarPage(
     heading_font = font_google("Oswald")
   ),
   
-  title = "Dam Metrics Selector",
+  title = "Dam Objectives & Metrics Selector",
   
   tabPanel("Guidance",
            fluidPage(
