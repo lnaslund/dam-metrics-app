@@ -11,7 +11,7 @@ output: html_fragment
 # Number of drowning fatalities at a dam
 
 ## Data requirements/sources
-[Fatalities at Submerged Hydraulic Jumps Database](https://krcproject.groups.et.byu.net/browse.php)
+[Fatalities at Submerged Hydraulic Jumps Database](https://krcproject.groups.et.byu.net/browse.php){target="_blank"}
 
 ## Citations
 Authors

@@ -13,7 +13,7 @@ output: html_fragment
 Various methods are available to estimate species biomass, population size, or extirpation risk, including those which employ population viability analysis or age-structured population models.
 
 ## Data requirements/sources
-Geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolutio)), passability of barriers (see [Kemp & O'Hanley 2010](https://doi.org/10.1111/j.1365-2400.2010.00751.x)), and other required inputs for the population viability analysis or age-structured population model.
+Geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution){target="_blank"}), passability of barriers (see [Kemp & O'Hanley 2010](https://doi.org/10.1111/j.1365-2400.2010.00751.x){target="_blank"}), and other required inputs for the population viability analysis or age-structured population model.
 
 ## Citations
-([Corsair et al. 2009](https://doi.org/10.1007/s10726-008-9148-4); [Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115); [Ioannidou and O’Hanley 2019](https://doi.org/10.1016/j.biocon.2019.01.001); [Song et al. 2020](https://doi.org/10.1016/j.resconrec.2020.104990))
+([Corsair et al. 2009](https://doi.org/10.1007/s10726-008-9148-4){target="_blank"}; [Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115){target="_blank"}; [Ioannidou and O’Hanley 2019](https://doi.org/10.1016/j.biocon.2019.01.001){target="_blank"}; [Song et al. 2020](https://doi.org/10.1016/j.resconrec.2020.104990){target="_blank"})

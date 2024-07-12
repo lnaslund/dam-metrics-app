@@ -11,7 +11,7 @@ output: html_fragment
 # Proximity to stream-crossing alternatives
 
 ## Data requirements/sources
-[Road network data](https://www.arcgis.com/home/item.html?id=ef89ed40fe6d46b19301391bfb99ceca)
+[Road network data](https://www.arcgis.com/home/item.html?id=ef89ed40fe6d46b19301391bfb99ceca){target="_blank"}
 
 ## Citations
 Authors

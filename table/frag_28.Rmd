@@ -11,7 +11,7 @@ output: html_fragment
 # Effects on groundwater
 
 ## Data requirements/sources
-Groundwater elevations from [USGS](https://waterdata.usgs.gov/nwis/gw) or local sources; well numbers and depths from withdrawal permits
+Groundwater elevations from [USGS](https://waterdata.usgs.gov/nwis/gw){target="_blank"} or local sources; well numbers and depths from withdrawal permits
 
 ## Citations
 Authors

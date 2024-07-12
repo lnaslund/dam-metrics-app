@@ -12,8 +12,8 @@ output: html_fragment
 
 ## Data requirements/sources
 Can be inferred from proximity to National Register of Historical Places and/or townships. 
-Dam age and size may be found in the [National Inventory of Dams](https://nid.usace.army.mil/#/). 
+Dam age and size may be found in the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/){target="_blank"}. 
 In case mitigation is required, associated costs can be estimated based on mitigation action.  
   
 ## Citations
-([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282))
+([Foley et al. 2017](https://www.fs.usda.gov/research/treesearch/55282){target="_blank"})

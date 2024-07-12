@@ -17,7 +17,7 @@ output: html_fragment
 
 
 ## Data requirements/sources
-Community taxonomic data at the spatial scale of interest (e.g., [NatureServe Native U.S. Fishes database](https://www.natureserve.org/products/digital-distribution-native-us-fishes-watershed))
+Community taxonomic data at the spatial scale of interest (e.g., [NatureServe Native U.S. Fishes database](https://www.natureserve.org/products/digital-distribution-native-us-fishes-watershed){target="_blank"})
 
 ## Citations
-([Hoenke et al. 2014](http://dx.doi.org/10.1016/j.ecoleng.2013.12.009); [Martin 2019](https://maps.freshwaternetwork.org/chesapeake/plugins/barrier-prioritization-proto2/images/ChesapeakeFishPassagePrioritization_Report.pdf); [Guetz et al. 2021](https://doi.org/10.1111/rec.13583); [Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768))
+([Hoenke et al. 2014](http://dx.doi.org/10.1016/j.ecoleng.2013.12.009){target="_blank"}; [Martin 2023](https://www.maps.tnc.org/chesfpp/ChesapeakeFishPassagePrioritization_Report_2023.pdf){target="_blank"}; [Guetz et al. 2021](https://doi.org/10.1111/rec.13583){target="_blank"}; [Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768){target="_blank"})

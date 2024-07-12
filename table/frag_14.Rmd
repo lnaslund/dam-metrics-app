@@ -14,4 +14,4 @@ output: html_fragment
 Survey of riparian residents
 
 ## Citations
-([Wyrick et al. 2009](https://doi.org/10.1016/j.jenvman.2008.07.027))
+([Wyrick et al. 2009](https://doi.org/10.1016/j.jenvman.2008.07.027){target="_blank"})

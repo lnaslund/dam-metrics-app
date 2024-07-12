@@ -8,11 +8,12 @@ output: html_fragment
 }
 </style>
 
+
 # Connectivity methods
 
-Numerous connectivity methods are available to describe potential changes in species access to a river network with barrier addition or removal (see [McKay et al. 2017](https://doi.org/10.1002/rra.3021), [Jumani et al. 2020](https://doi.org/10.1088/1748-9326/abcb37))
+Numerous connectivity methods are available to describe potential changes in species access to a river network with barrier addition or removal (see [McKay et al. 2017](https://doi.org/10.1002/rra.3021){target="_blank"}, [Jumani et al. 2020](https://doi.org/10.1088/1748-9326/abcb37){target="_blank"})
 
-Note that flow intermittency may be an important consideration in calculating connectivity, particularly in dryland rivers ([Marshall et al. 2021](https://doi.org/10.3389/fenvs.2021.671556))
+Note that flow intermittency may be an important consideration in calculating connectivity, particularly in dryland rivers ([Marshall et al. 2021](https://doi.org/10.3389/fenvs.2021.671556){target="_blank"})
 
 Key distinctions among methods:
 
@@ -22,7 +23,7 @@ Key distinctions among methods:
 
 
 ## Data requirements/sources
-Geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolutio)), passability of barriers (see [Kemp & O'Hanley 2010](https://doi.org/10.1111/j.1365-2400.2010.00751.x)), and suitable habitat within the network
+Geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution){target="_blank"}), passability of barriers (see [Kemp & O'Hanley 2010](https://doi.org/10.1111/j.1365-2400.2010.00751.x){target="_blank"}), and suitable habitat within the network
 
 ## Citations
-([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015); [Kocovsky et al. 2009](https://doi.org/10.1002/rra.1094), [Null et al. 2014](http://dx.doi.org/10.1016/j.jenvman.2014.01.024); [Sethi et al. 2017](https://doi.org/10.1007/s10980-017-0571-2); [McKay et al. 2017](https://doi.org/10.1002/rra.3021))
+([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015){target="_blank"}; [Kocovsky et al. 2009](https://doi.org/10.1002/rra.1094){target="_blank"}, [Null et al. 2014](http://dx.doi.org/10.1016/j.jenvman.2014.01.024){target="_blank"}; [Sethi et al. 2017](https://doi.org/10.1007/s10980-017-0571-2){target="_blank"}; [McKay et al. 2017](https://doi.org/10.1002/rra.3021){target="_blank"})

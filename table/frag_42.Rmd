@@ -11,7 +11,7 @@ output: html_fragment
 # Hazard potential rating
 
 ## Data requirements/sources
-[FEMA National Dam Safety Program](https://www.fema.gov/emergency-managers/risk-management/dam-safety),[National Inventory of Dams](https://nid.usace.army.mil/)
+[FEMA National Dam Safety Program](https://www.fema.gov/emergency-managers/risk-management/dam-safety){target="_blank"}, [National Inventory of Dams](https://nid.sec.usace.army.mil/){target="_blank"}
 
 ## Citations
-([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115), [Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209))
+([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115){target="_blank"}, [Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209){target="_blank"})

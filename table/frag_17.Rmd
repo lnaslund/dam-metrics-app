@@ -16,4 +16,4 @@ Scoring rubric can include elements like the status of the source population, ex
 An expert and the information required for their judgement
 
 ## Citations
-([Quiñones et al. 2015](https://doi.org/10.1007/s11160-014-9359-5))
+([Quiñones et al. 2015](https://doi.org/10.1007/s11160-014-9359-5){target="_blank"})

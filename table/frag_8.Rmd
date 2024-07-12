@@ -7,10 +7,11 @@ output: html_fragment
 }
 </style>
 
+
 # Stated or revealed preference 
 
 ## Data requirements/sources
 Primary survey data can be used to approximate the annualized value of recreation over an appropriate time horizon using stated preference methods like contingent valuation or revealed preference methods like a travel cost model.
 
 ## Citations
-([Loomis 2002](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2000WR000136); [Platt 2003](https://www.usbr.gov/tsc/techreferences/economics/DamRemovalPaper2.pdf))
+([Loomis 2002](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2000WR000136){target="_blank"}; [Platt 2003](https://www.usbr.gov/tsc/techreferences/economics/DamRemovalPaper2.pdf){target="_blank"})

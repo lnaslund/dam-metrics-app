@@ -12,7 +12,7 @@ output: html_fragment
 Erosion potential assesses the susceptibility of the stream to erode based on the amount of sediment available and the stream’s ability to move that sediment. This is imperative to understanding potential geomorphic channel change that may result from dam decommissioning.
 
 ## Data requirements/sources
-Streamflow data from [USGS](https://waterdata.usgs.gov/nwis/rt); sediment size and distributions; suspended sediment concentrations
+Streamflow data from [USGS](https://waterdata.usgs.gov/nwis/rt){target="_blank"}; sediment size and distributions; suspended sediment concentrations
 
 ## Citations
-Authors, inspired by (Major et al. 2017)
+Authors, inspired by ([Major et al. 2017]( https://doi.org/10.1002/9781118971437.ch13){target="_blank"})

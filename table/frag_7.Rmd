@@ -7,6 +7,14 @@ output: html_fragment
 }
 </style>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var links = document.querySelectorAll("a");
+  links.forEach(function(link) {
+    link.setAttribute("target", "_blank");
+  });
+});
+</script>
 
 # Connectivity metrics
 
@@ -21,7 +29,7 @@ These metrics can be adapted by accounting for:
 
 ### Relevant data
 
-Stream map ([NHD](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution)), dam location data ([NID](https://nid.usace.army.mil/#/) or other database), water quality data ([NWIS](https://waterdata.usgs.gov/nwis), state, or local databases), location of recreational amenities (parks and recreation departments, county GIS services)
+Stream map ([NHD](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution){target="_blank"}), dam location data ([NID](https://nid.sec.usace.army.mil/#/){target="_blank"} or other database), water quality data ([NWIS](https://waterdata.usgs.gov/nwis){target="_blank"}, state, or local databases), location of recreational amenities (parks and recreation departments, county GIS services)
 
 ## Citations
 Authors

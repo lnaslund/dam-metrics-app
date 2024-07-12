@@ -14,4 +14,4 @@ output: html_fragment
 Information on the number of users of impounded water based on utility company records or withdrawal permits
 
 ## Citations
-([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115))
+([Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115){target="_blank"})

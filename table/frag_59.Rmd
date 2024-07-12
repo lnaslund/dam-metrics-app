@@ -14,4 +14,4 @@ output: html_fragment
 Expert evaluation
 
 ## Citations
-([IEC 2015](https://archives.lib.state.ma.us/bitstream/handle/2452/265216/ocn911187672.pdf?sequence=1&isAllowed=y))
+([IEC 2015](https://archives.lib.state.ma.us/bitstream/handle/2452/265216/ocn911187672.pdf?sequence=1&isAllowed=y){target="_blank"})

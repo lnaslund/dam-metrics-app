@@ -15,4 +15,4 @@ Higher proportions of fine grained sediment are associated with higher cohesion 
 Site based assessments
   
 ## Citations
-([Tullos et al. 2016](https://www.fs.usda.gov/research/treesearch/54334); [Randle and Bountry 2017](https://acwi.gov/sos/pubs/dam_removal_analysis_guidelines_for_sos_final_vote_2017_12_22_508.pdf))
+([Tullos et al. 2016](https://www.fs.usda.gov/research/treesearch/54334){target="_blank"}; [Randle and Bountry 2017](https://acwi.gov/sos/pubs/dam_removal_analysis_guidelines_for_sos_final_vote_2017_12_22_508.pdf){target="_blank"})

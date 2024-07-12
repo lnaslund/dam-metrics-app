@@ -17,7 +17,7 @@ Relevant characteristics:
 * Number of recreational users
 
 ## Data requirements/sources
-Databases like the [National Inventory of Dams](https://nid.usace.army.mil/#/); recreational survey data, if available
+Databases like the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/){target="_blank"}; recreational survey data, if available
 
 ## Citations
-([Wahl & Svoboda 2022](https://doi.org/10.1061/9780784484258.026))
+([Wahl & Svoboda 2022](https://doi.org/10.1061/9780784484258.026){target="_blank"})

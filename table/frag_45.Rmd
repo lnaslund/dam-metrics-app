@@ -12,8 +12,8 @@ output: html_fragment
 
 ## Data requirements/sources
 From reports such as - 
-[Federal Funding for Dam Removal in the US](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.);
-[Funding Options for Dam Removals in the US](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/)
+[Federal Funding for Dam Removal in the US](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.){target="_blank"};
+[Funding Options for Dam Removals in the US](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/){target="_blank"}
 
 ## Citations
-[Walls and Shabman 2020a](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.), [Walls and Shabman 2020b](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/)
+[Walls and Shabman 2020a](https://www.rff.org/publications/issue-briefs/federal-funding-dam-removal-united-states/#:~:text=The%20National%20Fish%20and%20Wildlife,%2C%20region%2C%20and%20species%20focuses.){target="_blank"}, [Walls and Shabman 2020b](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/){target="_blank"}

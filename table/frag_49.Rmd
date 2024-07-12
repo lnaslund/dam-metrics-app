@@ -11,8 +11,8 @@ output: html_fragment
 # Dam type and material 
 
 ## Data requirements/sources
-Dam type and material (earth fill, rock fill, concrete dams) from the [National Inventory of Dams](https://nid.usace.army.mil/#/)
+Dam type and material (earth fill, rock fill, concrete dams) from the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/){target="_blank"}
 
 ## Citations
-([Gonzales & Walls 2020](https://media.rff.org/documents/Dams_and_Dam_Removals_in_the_US_Js8EO7S.pdf))
+([Gonzales & Walls 2020](https://media.rff.org/documents/Dams_and_Dam_Removals_in_the_US_Js8EO7S.pdf){target="_blank"})
 

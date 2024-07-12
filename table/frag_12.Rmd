@@ -11,9 +11,9 @@ output: html_fragment
 # Historic Places Listing
 
 ## Data requirements/sources
-State, tribal, and [national](https://www.nps.gov/subjects/nationalregister/index.htm) register of historic places database(s). 
+State, tribal, and [national](https://www.nps.gov/subjects/nationalregister/index.htm){target="_blank"} register of historic places database(s). 
 
 Note: Modification to these structures may require consultation with the relevant historic preservation offices under section 106 of the National Historic Preservation Act or state/tribal equivalent.
 
 ## Citations
-([The Georgia Aquatic Connectivity Team 2020](https://ga-act.org/wp-content/uploads/2020/06/Georgia_Dam_Handbook_06012020.pdf)), ([McClain et al 2008](https://www.americanrivers.org/wp-content/uploads/2016/06/Dam_Removal_and_Historic_Preservationa3eb.pdf))
+([The Georgia Aquatic Connectivity Team 2020](https://ga-act.org/wp-content/uploads/2020/06/Georgia_Dam_Handbook_06012020.pdf){target="_blank"}, [McClain et al 2008](https://www.americanrivers.org/wp-content/uploads/2016/06/Dam_Removal_and_Historic_Preservationa3eb.pdf){target="_blank"})

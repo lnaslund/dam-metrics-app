@@ -11,7 +11,7 @@ output: html_fragment
 # Dam Condition
 
 ## Data requirements/sources
-[National Inventory of Dams](https://nid.usace.army.mil/)
+[National Inventory of Dams](https://nid.sec.usace.army.mil/){target="_blank"}
 
 ## Citations
-([Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209))
+([Zheng & Hobbs 2013](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000209){target="_blank"})

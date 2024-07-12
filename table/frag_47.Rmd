@@ -14,4 +14,4 @@ output: html_fragment
 Based on expert judgement of actual or potential stakeholder opposition to dam removal, public records
 
 ## Citations
-[Fox et al. 2016](https://www.sciencedirect.com/science/article/pii/S0016718516300720)
+[Fox et al. 2016](https://www.sciencedirect.com/science/article/pii/S0016718516300720){target="_blank"}

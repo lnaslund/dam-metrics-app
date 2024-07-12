@@ -10,7 +10,7 @@ output: html_fragment
 # Installed Capacity
 
 ## Data requirements/sources
-Databases like the [National Inventory of Dams](https://nid.usace.army.mil/#/) and [Existing Hydropower Assets (EHA) Database](https://doi.org/10.21951/EHA_FY2022/1865282)
+Databases like the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/){target="_blank"} and [Existing Hydropower Assets (EHA) Database](https://doi.org/10.21951/EHA_FY2022/1865282){target="_blank"}
 
 ## Citations
-([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015),[Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115), [Nagel & Ptak 2022](https://doi.org/10.1080/07900627.2020.1856050))
+([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015){target="_blank"}, [Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115){target="_blank"}, [Nagel & Ptak 2022](https://doi.org/10.1080/07900627.2020.1856050){target="_blank"})

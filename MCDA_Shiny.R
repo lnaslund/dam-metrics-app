@@ -28,7 +28,12 @@ for(i in 1:nrow(wos)){
   }
   else{
     if(str_count(wos$Authors[i], ";")>0) {
-      wos$parenthetical[i] <- paste0("(", str_split(wos$Authors[i], ",")[[1]][1], " et al. ", wos$Publication.Year[i], ")")
+      if(str_count(wos$Authors[i], ";") == 1){ 
+        wos$parenthetical[i] <- paste0("(", str_split(wos$Authors[i], ",")[[1]][1], " & ", str_split(wos$Authors[i], ";")[[1]][2]%>% str_extract("(?<=\\s)[:graph:]+(?=,)"), " ", wos$Publication.Year[i], ")")
+      }
+      if(str_count(wos$Authors[i], ";") > 1){
+        wos$parenthetical[i] <- paste0("(", str_split(wos$Authors[i], ",")[[1]][1], " et al. ", wos$Publication.Year[i], ")") 
+      }
     }
     else{
       wos$parenthetical[i] <- paste0("(", str_split(wos$Authors[i], ",")[[1]][1], " ", wos$Publication.Year[i], ")")
@@ -42,6 +47,7 @@ for(i in 1:nrow(wos)){
     wos$html[i] <- paste0("<a href = '", wos$link[i], "' target = ", "'_blank'", ">", wos$parenthetical[i], "</a>")
   }
 }
+
 
 shinyInput <- function(FUN, n, id, ...) {
   vapply(n, function(i){
@@ -126,7 +132,8 @@ ui <- navbarPage(
            value = "metrics",
            fluidPage(
              DTOutput("data"),
-             downloadButton('downloadData', "Download")
+             downloadButton('downloadData', "Download table"),
+             downloadButton('report', "Download more information")
                      
                      )),
   tabPanel("Tools",
@@ -170,6 +177,10 @@ server <- function(input, output, session) {
         %>% dplyr::select(-uniqueID))
     }
   )
+  
+  fragsInput <- reactive({
+    obj%>% filter(Objective %in% input$mychooser$right) %>% pull(uniqueID)
+  })
   
   output$data <- DT::renderDT({
     dataInput()
@@ -219,6 +230,34 @@ server <- function(input, output, session) {
       }
   )
   
+  output$report <- downloadHandler(
+    filename = function(){
+      paste("report-", Sys.Date(), ".html", sep ='')
+    },
+    content = function(info_cont){
+      
+      temp_vec <- c()
+      for(z in 1:length(fragsInput())){
+        temp <- paste0("table/frag_", fragsInput()[z], ".html")
+        temp_vec <- c(temp_vec, temp)
+      }
+      
+      html_content <- paste0(
+        '<!DOCTYPE html>
+    <html>
+    <head>
+    <title>My HTML Page</title>
+    </head>',
+    map(temp_vec, includeHTML),
+    '
+  </body>
+  </html>
+  '
+      )
+      
+      writeLines(html_content, info_cont)
+    }
+  )
 
   observeEvent(input$select_button, {
     showModal(modalDialog(

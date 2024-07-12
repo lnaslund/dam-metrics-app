@@ -24,9 +24,9 @@ Various depending on selected method
 
 Data requirements for example methods:
 
-* [NLCD data](https://www.mrlc.gov/data)
-* [StreamCat data](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset)
+* [NLCD data](https://www.mrlc.gov/data){target="_blank"}
+* [StreamCat data](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset){target="_blank"}
 * Geomorphic survey data
 
 ## Citations
-([Mader & Maier 2008](https://doi.org/10.1007/s10750-008-9406-0), [Martin 2019](https://maps.freshwaternetwork.org/chesapeake/plugins/barrier-prioritization-proto2/images/ChesapeakeFishPassagePrioritization_Report.pdf), [Martin et al. 2020](https://www.atlanticfishhabitat.org/wp-content/uploads/2020/08/ACFHP-Mapping-and-Prioritization-Final-Report.pdf), [Guetz et al. 2021](https://doi.org/10.1111/rec.13583))
+([Mader & Maier 2008](https://doi.org/10.1007/s10750-008-9406-0){target="_blank"}, [Martin 2023](https://www.maps.tnc.org/chesfpp/ChesapeakeFishPassagePrioritization_Report_2023.pdf){target="_blank"}, [Martin et al. 2020](https://www.atlanticfishhabitat.org/wp-content/uploads/2020/08/ACFHP-Mapping-and-Prioritization-Final-Report.pdf){target="_blank"}, [Guetz et al. 2021](https://doi.org/10.1111/rec.13583){target="_blank"})

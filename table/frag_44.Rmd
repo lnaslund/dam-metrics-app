@@ -14,4 +14,4 @@ output: html_fragment
 Can be inferred from state-based policies and permitting requirements.
 
 ## Citations
-([Walls and Shabman 2020](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/))
+([Walls and Shabman 2020](https://www.rff.org/publications/issue-briefs/funding-options-dam-removal-united-states/){target="_blank"})

@@ -16,4 +16,4 @@ Dam removals are sometimes accompanied by the construction of supplanting infras
 Infrastructure specific cost estimates, relevant discounting rates
 
 ## Citations
-([ECONorthwest 2019](https://static1.squarespace.com/static/597fb96acd39c34098e8d423/t/5d41bbf522405f0001c67068/1564589261882/LSRD_Economic_Tradeoffs_Report.pdf))
+([ECONorthwest 2019](https://www.columbiariverkeeper.org/sites/default/files/2019-11/2019%20LSRD_Economic_Tradeoffs_Report-ECONorthwest.pdf){target="_blank"})

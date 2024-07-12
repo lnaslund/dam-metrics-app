@@ -2,10 +2,18 @@
 
 
 <style type="text/css">
-  h1{
-  font-size: 2.5em;
+h1{
+font-size: 2.5em;
 }
 </style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var links = document.querySelectorAll("a");
+  links.forEach(function(link) {
+    link.setAttribute("target", "_blank");
+  });
+});
+</script>
 <div id="connectivity-metrics" class="section level1">
 <h1>Connectivity metrics</h1>
 <div id="data-requirementssources" class="section level2">
@@ -20,11 +28,10 @@ can be adapted to represent swiftwater connectivity for recreators.</p>
 </ul>
 <div id="relevant-data" class="section level3">
 <h3>Relevant data</h3>
-<p>Stream map (<a href="https://www.usgs.gov/national-hydrography/nhdplus-high-resolution" target="_blank">NHD</a>),
-dam location data (<a href="https://nid.usace.army.mil/#/" target="_blank">NID</a> or
-other database), water quality data (<a href="https://waterdata.usgs.gov/nwis" target="_blank">NWIS</a>, state, or local
-databases), location of recreational amenities (parks and recreation
-departments, county GIS services)</p>
+<p>Stream map (<a href="https://www.usgs.gov/national-hydrography/nhdplus-high-resolution" target="_blank">NHD</a>), dam location data (<a href="https://nid.sec.usace.army.mil/#/" target="_blank">NID</a> or
+other database), water quality data (<a href="https://waterdata.usgs.gov/nwis" target="_blank">NWIS</a>, state,
+or local databases), location of recreational amenities (parks and
+recreation departments, county GIS services)</p>
 </div>
 </div>
 <div id="citations" class="section level2">

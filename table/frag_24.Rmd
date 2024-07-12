@@ -11,7 +11,7 @@ output: html_fragment
 # Volume of water
 
 ## Data requirements/sources
-Storage capacity from the [National Inventory of Dams](https://nid.usace.army.mil/#/); water withdrawal volumes from dam operator records or withdrawal permits
+Storage capacity from the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/){target="_blank"}; water withdrawal volumes from dam operator records or withdrawal permits
 
 ## Citations
-([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015); [Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115); [Foley et al. 2017](https://doi.org/10.1371/journal.pone.0180107))
+([Kuby et al. 2005](https://doi.org/10.1016/j.advwatres.2004.12.015){target="_blank"}; [Roy et al. 2018](https://doi.org/10.1073/pnas.1807437115){target="_blank"}; [Foley et al. 2017](https://doi.org/10.1371/journal.pone.0180107){target="_blank"})

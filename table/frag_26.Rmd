@@ -13,7 +13,7 @@ output: html_fragment
 Analyst can differentiate withdrawls into residential, agricultural, thermoelectric, industrial uses.
 
 ## Data requirements/sources
-Value of water provided to public based on municipality cost data; value of water for irrigation from sources such as [USDA NASS](https://www.nass.usda.gov/Charts_and_Maps/Agricultural_Prices/index.php)
+Value of water provided to public based on municipality cost data; value of water for irrigation from sources such as [USDA NASS](https://www.nass.usda.gov/Charts_and_Maps/Agricultural_Prices/index.php){target="_blank"}
 
 ## Citations
-([Kraft et al. 2019](https://doi.org/10.1111/1752-1688.12718))
+([Kraft et al. 2019](https://doi.org/10.1111/1752-1688.12718){target="_blank"})

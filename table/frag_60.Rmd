@@ -11,7 +11,7 @@ output: html_fragment
 # Total removal cost
 
 ## Data requirements/sources
-The [Dam Removal Cost Estimator Tool](https://wrises.shinyapps.io/DamRemovalCostPredictiveModel/) provides estimates of the total cost of dam removals in the US based on a regression model fit with characteristics and costs of past removals. This model takes as its input:
+The [Dam Removal Cost Estimator Tool](https://wrises.shinyapps.io/DamRemovalCostPredictiveModel/){target="_blank"} provides estimates of the total cost of dam removals in the US based on a regression model fit with characteristics and costs of past removals. This model takes as its input:
 
 * Dam height
 * Dam material
@@ -21,4 +21,4 @@ The [Dam Removal Cost Estimator Tool](https://wrises.shinyapps.io/DamRemovalCost
 * Region
 
 ## Citations
-([Duda et al. 2023](https://doi.org/10.3389/fevo.2023.1215471))
+([Duda et al. 2023](https://doi.org/10.3389/fevo.2023.1215471){target="_blank"})

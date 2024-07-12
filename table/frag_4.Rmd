@@ -13,4 +13,4 @@ output: html_fragment
 National Inventory of Dams, utility cost data
 
 ## Citations
-([McManamay et al. 2019](https://doi.org/10.1002/ecs2.2596))
+([McManamay et al. 2019](https://doi.org/10.1002/ecs2.2596){target="_blank"})

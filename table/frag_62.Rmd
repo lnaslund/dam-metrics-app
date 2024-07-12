@@ -9,9 +9,9 @@ output: html_fragment
 </style>
 
 # Loss of tax revenue
-The impact of dam removal on property values is not well-understood. Several hedonic analyses have indicated no impact of small dam removals on property values ([Provencher et al. 2008](https://doi.org/10.1111/j.1465-7287.2008.00107.x); [Cahill & Anguelov 2024](https://doi.org/10.1080/09640568.2024.2322538)), while some have indicated a positive effects ([Lewis et al. 2008](https://doi.org/10.1111/j.1465-7287.2008.00100.x); [Lewis & Landry 2017](https://doi.org/10.1016/j.wre.2017.02.001)). The impact of large dam removals on property values is likely greater than that of small removals but empirical evidence is lacking. 
+The impact of dam removal on property values is not well-understood. Several hedonic analyses have indicated no impact of small dam removals on property values ([Provencher et al. 2008](https://doi.org/10.1111/j.1465-7287.2008.00107.x){target="_blank"}; [Cahill & Anguelov 2024](https://doi.org/10.1080/09640568.2024.2322538){target="_blank"}), while some have indicated a positive effects ([Lewis et al. 2008](https://doi.org/10.1111/j.1465-7287.2008.00100.x){target="_blank"}; [Lewis & Landry 2017](https://doi.org/10.1016/j.wre.2017.02.001){target="_blank"}). The impact of large dam removals on property values is likely greater than that of small removals but empirical evidence is lacking. 
 
-Other studies have found a strong perception among riparian residents that dam removal will decrease the value of their lakefront homes ([Wyrick et al. 2009](https://doi.org/10.1016/j.jenvman.2008.07.027)), indicating that perceived loss of property value with dam removal would also manifest through riparian resident opposition to dam removal which is a metric outlined for objective 4d) Minimize interruption to community sense of place.
+Other studies have found a strong perception among riparian residents that dam removal will decrease the value of their lakefront homes ([Wyrick et al. 2009](https://doi.org/10.1016/j.jenvman.2008.07.027){target="_blank"}), indicating that perceived loss of property value with dam removal would also manifest through riparian resident opposition to dam removal which is a metric outlined for objective 4d) Minimize interruption to community sense of place.
 
 ## Data requirements/sources
 Expert evaluation

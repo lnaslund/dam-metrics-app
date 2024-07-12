@@ -17,7 +17,7 @@ Like other connectivity-based metrics, risk of spread methods vary in biological
 
 
 ## Data requirements/sources
-Locations of invasive organisms, infected populations, or source population for undesirable hybrids and geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolutio))
+Locations of invasive organisms, infected populations, or source population for undesirable hybrids and geospatial model of the river network (e.g., [NHDPlus](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution){target="_blank"})
 
 ## Citations
-([Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768); [Melles et al. 2015](https://doi.org/10.1007/s10980-014-0114-z))
+([Terêncio et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144768){target="_blank"}; [Melles et al. 2015](https://doi.org/10.1007/s10980-014-0114-z){target="_blank"})

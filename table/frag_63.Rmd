@@ -9,10 +9,10 @@ output: html_fragment
 </style>
 
 # Cost of repairing dam and appurtenant structures
-The Association of State Dam Safety Officials (ASDSO) estimates and reports dam rehabilitation costs based on reported project costs from prior repairs and dam characteristics including dam height, age, and condition assessment ([ASDSO 2023](https://damsafety-prod.s3.amazonaws.com/s3fs-public/files/2023%20ASDSO%20Costs%20of%20Dam%20Rehab%20Report.pdf)). 
+The Association of State Dam Safety Officials (ASDSO) estimates and reports dam rehabilitation costs based on reported project costs from prior repairs and dam characteristics including dam height, age, and condition assessment ([ASDSO 2023](https://damsafety-prod.s3.amazonaws.com/s3fs-public/files/2023%20ASDSO%20Costs%20of%20Dam%20Rehab%20Report.pdf){target="_blank"}). 
 
 ## Data requirements/sources
-Dam height, age, and condition assessment. Dam condition assessments are infrequently publicly accessible, but may be available for regulated dams through state dam safety offices. Dam height and age may be available attributes in the [National Inventory of Dams](https://nid.sec.usace.army.mil/).
+Dam height, age, and condition assessment. Dam condition assessments are infrequently publicly accessible, but may be available for regulated dams through state dam safety offices. Dam height and age may be available attributes in the [National Inventory of Dams](https://nid.sec.usace.army.mil/){target="_blank"}.
 
 ## Citations
 Authors
