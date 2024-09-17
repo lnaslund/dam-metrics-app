@@ -13,4 +13,4 @@ h1{
 
 # Feedback
 
-We hope that you have found this resource useful. We appreciate suggestions for how to improve this tool or recommendations of metrics to add. Please use the feedback box below to share your thoughts.
+We hope that you have found this resource useful. We appreciate suggestions for how to improve this tool or recommendations of metrics to add. Please email usace.wrises[at]gmail.com to send us your feedback. 

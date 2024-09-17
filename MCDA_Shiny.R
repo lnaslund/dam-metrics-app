@@ -1,19 +1,14 @@
 library(shiny)
 library(tidyverse)
-#library(rdrop2)
 library(bslib)
 library(shinythemes)
-library(googlesheets4)
 library(DT)
 library(knitr)
 
+# need to find a way to keep the google analytics but dump the 
 source("chooser.R")
 tags$head(includeScript("google-analytics.html"))
 
-outputDir <- "responses"
-
-gs4_auth(cache = ".secrets", email="lauranaslund@gmail.com")
-ss <- gs4_get("https://docs.google.com/spreadsheets/d/1ypCu5EgUhXXPOYEH1I4HhoEebZmzvJutmVhn8nAXMCU/edit?usp=sharing")
 
 obj <- read.csv("example_objectives_3.csv") 
 wos <- read.csv("WOS_Citations.csv") %>% pivot_longer(cols = c("X1a":"X5f"), names_to = "variable", values_to = "value") %>% mutate(Obj_Merg = str_sub(variable, 2, 3)) %>% left_join(obj %>% mutate(Obj_Merg = str_sub(Objective, 1, 2)) %>% select(Objective, Obj_Merg), by = "Obj_Merg")
@@ -148,14 +143,7 @@ ui <- navbarPage(
     fluidPage(
       fluidRow(
         column(6, includeHTML("Feedback_Tab.html"))
-      ),
-      
-      fluidRow(
-      column(12, textAreaInput("feedback", "", width = "400px", height = "400px"))
-    ), 
-    fluidRow(
-      column(2, actionButton("submit", "Submit")), 
-      column(3, textOutput("msg")))
+      )
     ))
 )
 
@@ -268,12 +256,12 @@ server <- function(input, output, session) {
   })
   
   
-  observeEvent(input$submit, 
-               { temp_df <- data.frame("Timestamp" = as.integer(Sys.time()), "Feedback" = input$feedback)
-               ss %>% sheet_append(temp_df)
-                 output$msg <- renderText("Thank you for your feedback")}
-               
-               )
+  # observeEvent(input$submit, 
+  #              { temp_df <- data.frame("Timestamp" = as.integer(Sys.time()), "Feedback" = input$feedback)
+  #              ss %>% sheet_append(temp_df)
+  #                output$msg <- renderText("Thank you for your feedback")}
+  #              
+  #              )
   observeEvent(input$obj1, {
     showModal(modalDialog(
       title = "1) Account for monetary costs and feasibility",
